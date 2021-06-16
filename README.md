@@ -24,7 +24,7 @@ https://public.tableau.com/shared/5MX57H7M7?:display_count=n&:origin=viz_share_l
 - August Peak Hours:
 
 The Bar graph represents the peak hours for Citi Bikes trips. The x-axis shows the Number of Trips and y-axis the hour of the start-time. The chart shows that peak commuting hours are from 8-9am, 5-6pm and 6-7pm. 2-3am morning does not seem to have many trips taken.
-![August Peak  Hours](https://user-images.githubusercontent.com/80075982/122164894-449db080-ce2c-11eb-8274-31fdf38d4b0a.png)
+![August Peark_Hours](https://user-images.githubusercontent.com/80075982/122303451-6e041e00-ceb8-11eb-8acd-831ea225dd7f.png)
 
 
 
