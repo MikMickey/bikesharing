@@ -48,5 +48,5 @@ The chart shows the number of trips by type of user (Customer or Subscriber), as
 
 
 ## Summary
-Based on the results and visualizations of the Citi Bike trip history data from August 2019, it seems that a majority of the trips are taken by males that are subscribers and most trips occur during commuting hours on weekdays, especially Thursdays. Most Citi Bike trips are under 10 minutes and hardly go past one hour. As the commuting times tend to be the most popular, repairs and maintenance can be done in the early hours of the morning when there are not many bikes in demand.
+Based on the results and visualizations of the NYC Bike Sharing trip history data from August 2019, it seems that a majority of the trips are taken by males that are subscribers and most trips occur during commuting hours on weekdays, especially Thursdays. Most NYC Bike Sharing trips are under 10 minutes and hardly go past one hour. As the commuting times tend to be the most popular, repairs and maintenance can be done in the early hours of the morning when there are not many bikes in demand.
 
