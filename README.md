@@ -16,7 +16,7 @@ The purpose of this module is to analyze New York City Citi Bike sharing trip hi
 7 different visualizations showing the total number of trips, the types of users and trip duration was presented using the Tableau ~ NYC Bike Sharing Analysis.
 
 To see all of the visualizations please click the link below:
-https://public.tableau.com/shared/5MX57H7M7?:display_count=n&:origin=viz_share_link
+https://public.tableau.com/views/Mod_14_Challenge_dev2/Story1?:language=en-US&:display_count=n&:origin=viz_share_link
 
 
 
